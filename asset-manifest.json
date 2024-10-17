@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jerbycoding/magrereviewAko/static/css/main.31d6cfe0.css",
+    "main.js": "/jerbycoding/magrereviewAko/static/js/main.d30c505a.js",
+    "static/js/453.9c44b721.chunk.js": "/jerbycoding/magrereviewAko/static/js/453.9c44b721.chunk.js",
+    "index.html": "/jerbycoding/magrereviewAko/index.html",
+    "main.d30c505a.js.map": "/jerbycoding/magrereviewAko/static/js/main.d30c505a.js.map",
+    "453.9c44b721.chunk.js.map": "/jerbycoding/magrereviewAko/static/js/453.9c44b721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d30c505a.js"
+  ]
+}
